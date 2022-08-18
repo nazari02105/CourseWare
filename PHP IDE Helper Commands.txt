@@ -1,0 +1,6 @@
+just for first time : composer require --dev barryvdh/laravel-ide-helper
+
+everytime you add a model :
+1-php artisan ide-helper:generate
+2-php artisan ide-helper:models
+3-php artisan ide-helper:meta
